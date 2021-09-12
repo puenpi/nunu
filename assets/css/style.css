@@ -514,6 +514,7 @@ html{
 .slider-box-choice{
      display: flex;
      list-style: none;
+     margin-left:12px;
 }
 
 .slider-box-choice-search{
