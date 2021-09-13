@@ -11,6 +11,9 @@ html{
 
 /* main */
 
+.main{
+    overflow: hidden;
+}
 
 .header{
     background-color: #434a54;
